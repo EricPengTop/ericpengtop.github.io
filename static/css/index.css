@@ -75,26 +75,26 @@ body{
 	border-bottom: 3px solid #262626;
 }
 
-.img>a{
+.responsive-item>.img>a{
 	height: 250px;
 	display: block;
 	text-decoration: none;
-	background-image: url("../../static/img/python.jpg");
+	background-image: url("../../static/img/web.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
 }
 
-.desc{
+.responsive-item>.desc{
 	padding: 15px;
 }
 
-.desc>a{
+.responsive-item>.desc>a{
 	color: #000000;
 	text-decoration: none;
 }
 
-.date{
+.responsive-item>.date{
 	padding: 0px 15px;
 }
 
