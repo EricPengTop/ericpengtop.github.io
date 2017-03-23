@@ -51,22 +51,89 @@ body{
 	height: 450px;
 }
 
-.swiper-container {
+#middle>.swiper-container {
 	width: 100%;
 	height: 100%;
 }
 
-.swiper-container>.swiper-wrapper .swiper-slide>img{
+#middle>.swiper-container>.swiper-wrapper .swiper-slide>img{
 	width: 100%;
 	height: 100%;
 }
 
 #bottom{
-	height: 500px;
-	background: #303030;
+	background: #ffffff;
+	padding:10px;
+}
+
+.responsive-item{
+	width: 25%;
+	float: left;
+	position: relative;
+	margin-left: 1%;
+	margin-bottom: 1%;
+	border-bottom: 3px solid #262626;
+}
+
+.img>a{
+	height: 250px;
+	display: block;
+	text-decoration: none;
+	background-image: url("../../static/img/python.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+.desc{
+	padding: 15px;
+}
+
+.desc>a{
+	color: #000000;
+	text-decoration: none;
+}
+
+.date{
+	padding: 0px 15px;
 }
 
 #footer{
+	clear: both;
 	height: 109px;
-	background: #000000;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	text-align: center;
+	background: #f4f5f6;
+}
+
+#footer>img{
+	width: 46px;
+	height: 46px;
+	padding: 1.5px;
+	border: 1px solid #f4e69d;
+}
+
+#footer>ul{
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+	list-style-type: none;
+	list-style-image: none;
+	list-style-position: outside
+}
+
+#footer>ul li{
+	display: inline-block;
+	position: relative;
+}
+
+#footer>ul li>a{
+	margin-left: 16px;
+	color: #b0b8c1;
+	text-decoration: none;
+}
+
+#footer>p{
+	color: #b0b8c1;
 }
