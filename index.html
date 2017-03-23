@@ -2,10 +2,63 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Hello World</title>
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+	<title>个人博客</title>
+
+	<link rel="stylesheet" type="text/css" href="static/css/index.css">
+	<link rel="stylesheet" type="text/css" href="lib/swiper/css/swiper.min.css">
+
+	<script type="text/javascript" src="lib/swiper/js/swiper.min.js"></script>
 </head>
 <body>
-	<h1>Hello World</h1>
-	<p>I'm hosted with GitHub Pages.</p>
+	<div>
+		<!--头部-->
+		<div id="header">
+			<ul>
+				<li><a href="#">首页</a></li>
+				<li><a href="#">我的项目</a></li>
+				<li><a href="#">关于自己</a></li>
+				<li><a href="#">联系我</a></li>
+			</ul>
+		</div>
+		<!--中部-->
+		<div id="middle">
+			<!-- Swiper -->
+			<div class="swiper-container">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide"><img src="static/img/android.jpg"></div>
+					<div class="swiper-slide"><img src="static/img/coder.jpg"></div>
+					<div class="swiper-slide"><img src="static/img/python.jpg"></div>
+				</div>
+				<!-- 如果需要分页器 -->
+				<div class="swiper-pagination"></div>
+
+				<!-- 如果需要导航按钮 -->
+				<div class="swiper-button-prev"></div>
+				<div class="swiper-button-next"></div>
+			</div>
+		</div>
+		<!--下部-->
+		<div id="bottom">
+
+		</div>
+		<!--脚部-->
+		<div id="footer">
+
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		var swiper = new Swiper('.swiper-container', {
+			pagination: '.swiper-pagination',
+			nextButton: '.swiper-button-next',
+			prevButton: '.swiper-button-prev',
+			paginationClickable: true,
+			spaceBetween: 30,
+			centeredSlides: true,
+			autoplay: 2500,
+			autoplayDisableOnInteraction: false
+		});
+	</script>
 </body>
 </html>

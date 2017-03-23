@@ -1,0 +1,72 @@
+body{
+	margin: 0;
+}
+
+#header{
+	height: 84px;
+	background: #ffffff;
+}
+
+#header>ul{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#header>ul li{
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+#header>ul li>a{
+	display:block;
+	width: 100%;
+	height: 100%;
+	color: #ffffff;
+	line-height: 84px;
+	vertical-align: middle;
+	font-weight: bold;
+	text-align: center;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+
+#header>ul li>a:link{/**未访问过的链接样式**/
+	background-color: #262626;
+}
+
+#header>ul li>a:visited{/**已访问过的链接样式**/
+	background-color:#262626;
+}
+
+#header>ul li>a:hover{/**鼠标指针移动到链接上样式**/
+	background-color:#cc0000;
+}
+#header>ul li>a:active{/**正在被点击的链接样式**/
+	background-color:#cc0000;
+}
+
+#middle{
+	height: 450px;
+}
+
+.swiper-container {
+	width: 100%;
+	height: 100%;
+}
+
+.swiper-container>.swiper-wrapper .swiper-slide>img{
+	width: 100%;
+	height: 100%;
+}
+
+#bottom{
+	height: 500px;
+	background: #303030;
+}
+
+#footer{
+	height: 109px;
+	background: #000000;
+}
