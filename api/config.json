@@ -1,0 +1,9 @@
+{
+	"status": 1000,
+	"message": "成功",
+	"data": {
+		"splashImage": "http://img3.duitang.com/uploads/blog/201403/26/20140326140216_xednQ.thumb.700_0.jpeg",
+		"splashVideo": "https://ericpengtop.github.io/static/video/video.mp4",
+		"loginImage": "https://ericpengtop.github.io/static/img/login_bg.jpg"
+	}
+}
