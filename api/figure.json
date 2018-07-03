@@ -1,7 +1,33 @@
 {
-  "message":"",
+  "message":"成功",
   "data":[
-  
+    {
+      “id”:0,
+      "chineseName":"成龙",
+      "image":”“,
+      "englishName":"chenglong",
+      "birthday":"2018-02-12",
+      "birthPlace":"四川成都",
+      "occupational":"演员"
+    },
+    {
+      “id”:0,
+      "chineseName":"成龙",
+      "image":”“,
+      "englishName":"chenglong",
+      "birthday":"2018-02-12",
+      "birthPlace":"四川成都",
+      "occupational":"演员"
+    },
+    {
+      “id”:0,
+      "chineseName":"成龙",
+      "image":”“,
+      "englishName":"chenglong",
+      "birthday":"2018-02-12",
+      "birthPlace":"四川成都",
+      "occupational":"演员"
+    }
   ],
-  "code":200
+  "status":1000
 }
