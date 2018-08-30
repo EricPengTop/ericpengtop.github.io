@@ -5,25 +5,25 @@
         {
             "id":"0",
             "chineseName":"成龙",
-            "image":"",
+            "image":"http://photocdn.sohu.com/20130306/Img367990559.jpg",
             "englishName":"chenglong",
             "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
+            "birthPlace":"中国.香港",
             "occupational":"演员"
         },
         {
             "id":"1",
             "chineseName":"成龙",
-            "image":"",
+            "image":"http://photocdn.sohu.com/20130306/Img367990559.jpg",
             "englishName":"chenglong",
             "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
+            "birthPlace":"中国.香港",
             "occupational":"演员"
         },
         {
             "id":"2",
             "chineseName":"成龙",
-            "image":"",
+            "image":"http://photocdn.sohu.com/20130306/Img367990559.jpg",
             "englishName":"chenglong",
             "birthday":"2018-02-12",
             "birthPlace":"四川成都",
@@ -41,7 +41,7 @@
         {
             "id":"4",
             "chineseName":"成龙",
-            "image":"",
+            "image":"http://photocdn.sohu.com/20130306/Img367990559.jpg",
             "englishName":"chenglong",
             "birthday":"2018-02-12",
             "birthPlace":"四川成都",
@@ -50,16 +50,16 @@
         {
             "id":"5",
             "chineseName":"成龙",
-            "image":"",
+            "image":"http://photocdn.sohu.com/20130306/Img367990559.jpg",
             "englishName":"chenglong",
             "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
+            "birthPlace":"中国.香港",
             "occupational":"演员"
         },
         {
             "id":"6",
             "chineseName":"成龙",
-            "image":"",
+            "image":"http://photocdn.sohu.com/20130306/Img367990559.jpg",
             "englishName":"chenglong",
             "birthday":"2018-02-12",
             "birthPlace":"四川成都",
@@ -68,7 +68,7 @@
         {
             "id":"7",
             "chineseName":"成龙",
-            "image":"",
+            "image":"http://photocdn.sohu.com/20130306/Img367990559.jpg",
             "englishName":"chenglong",
             "birthday":"2018-02-12",
             "birthPlace":"四川成都",
@@ -80,7 +80,7 @@
             "image":"",
             "englishName":"chenglong",
             "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
+            "birthPlace":"中国.香港",
             "occupational":"演员"
         },
         {
@@ -89,367 +89,25 @@
             "image":"",
             "englishName":"chenglong",
             "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
+            "birthPlace":"中国.香港",
             "occupational":"演员"
         },
         {
             "id":"10",
             "chineseName":"成龙",
-            "image":"",
+            "image":"http://photocdn.sohu.com/20130306/Img367990559.jpg",
             "englishName":"chenglong",
             "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
+            "birthPlace":"中国.香港",
             "occupational":"演员"
         },
         {
             "id":"11",
             "chineseName":"成龙",
-            "image":"",
+            "image":"http://photocdn.sohu.com/20130306/Img367990559.jpg",
             "englishName":"chenglong",
             "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"12",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"13",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"14",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"15",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"16",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"17",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"18",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"19",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"20",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"21",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"22",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"23",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"24",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"25",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"26",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"27",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"28",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"29",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
-            "occupational":"演员"
-        },
-        {
-            "id":"0",
-            "chineseName":"成龙",
-            "image":"",
-            "englishName":"chenglong",
-            "birthday":"2018-02-12",
-            "birthPlace":"四川成都",
+            "birthPlace":"中国.香港",
             "occupational":"演员"
         }
     ]
